@@ -1,0 +1,30 @@
+h1 {
+  font-size: 26.667px;
+  color: #38761D;
+  font-family: serif;
+  text-align: center;
+  font-family: Arial;
+} 
+
+h2 {
+  font-size: 	21.333px;
+  color: black;
+  font-family: serif;
+  text-align: center;
+  font-family: Arial;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+p {
+  font-size: 14.667px;
+  color: #000000;
+  font-family: serif;
+  font-family: Arial;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+} 
